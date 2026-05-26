@@ -1,0 +1,11 @@
+{
+  "name": "Temperatur-Umrechner",
+  "short_name": "Umrechner",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF5722",
+  "description": "Temperatur-Umrechner (Celsius ↔ Fahrenheit)",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
