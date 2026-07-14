@@ -14,3 +14,7 @@ build/
 .DS_Store
 
 # Hinweis: pubspec.lock wird committet (deploybare App, security/R07).
+
+# Secrets: Klartext lokal, verschlüsselt committet (GPG-E2E-Demo 2026-07-14)
+.env
+!.env.gpg
