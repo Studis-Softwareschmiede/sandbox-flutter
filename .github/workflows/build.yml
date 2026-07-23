@@ -6,6 +6,11 @@ name: build
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'board/**'
+      - 'docs/**'
+      - '**/*.md'
+      - '.claude/**'
 permissions:
   contents: read
   packages: write
